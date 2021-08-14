@@ -1,0 +1,56 @@
+.one{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    padding: 10px;
+    border: 10px solid black;
+    
+    display: inline-block;
+}
+ .one_child{
+     height: 100px;
+     width: 50px;
+     background-color: yellow;
+     margin: 10px;
+     
+ }
+
+ .one_child2{
+     height: 100px;
+     width: 50px;
+     background-color: yellow;
+     margin: 10px;
+     
+ }
+ 
+ .one_child3{
+     height: 100px;
+     width: 50px;
+     background-color: yellow;
+     margin: 10px;
+    
+ }
+ .two{
+    height: 400px;
+    width: 400px;
+    background-color: teal;
+    padding: 10px;
+    border: 10px solid black;
+    
+    display: inline-block;
+    
+ }
+ .two_child{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin: 10px;
+   
+}
+.two_child2{
+    height: 100px;
+     width: 100px;
+     background-color: yellow;
+     margin: 10px;
+}
+    
